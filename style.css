@@ -71,22 +71,3 @@ main {
   border-radius: 6px;
 }
 
-h2 {
-  color: #a76e2d;
-  margin-bottom: 10px;
-}
-
-
-h3 {
-  color: #a76e2d;
-  margin-bottom: 8px;
-}
-
-.lista ol {
-  margin-left: 20px;
-}
-
-button{
-    color: #a76e2d;
-    display: block;
-}
