@@ -39,3 +39,16 @@ img{
     justify-content: space-between;
     height: 500px;
 }
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: transform 0.2s;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
